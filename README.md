@@ -21,7 +21,7 @@ The code in this repo in particular performs data preprocessing and exporting th
 
 Ensure your current directory has all the files from this repo.
 ```
-python ner - data preprocessing.py
+python ner-data-preprocessing.py
 
 ```
 
@@ -51,7 +51,7 @@ Above code will create a directory named "output" in your current directory and 
 
 Ensure your current directory has all the files from this repo.
 ```
-python ner - inference.py
+python ner-inference.py
 
 ```
 
